@@ -1,0 +1,18 @@
+{
+    "descripcion": {
+        "titulo": "Estrategias Personalizadas",
+        "contenido": "Aquí ofrecemos estrategias de marketing adaptadas a las necesidades específicas de tu negocio."
+    },
+    "importancia": {
+        "titulo": "Importancia del Marketing Digital",
+        "contenido": "El marketing digital es clave para conectar con los clientes y mejorar la visibilidad de las empresas modernas."
+    },
+    "personalizar": {
+        "titulo": "Personalización de Servicios",
+        "contenido": "Puedes personalizar todos los aspectos de tu estrategia de marketing, desde la publicidad hasta el contenido de redes sociales."
+    },
+    "faq": {
+        "titulo": "Preguntas Frecuentes",
+        "contenido": "Aquí respondemos algunas de las preguntas más comunes sobre nuestras estrategias de marketing digital."
+    }
+}

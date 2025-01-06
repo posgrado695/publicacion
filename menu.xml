@@ -1,19 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <menu>
-    <item name="Inicio" link="#inicio">
+    <item>
+        <title>Inicio</title>
+        <link>#</link>
+    </item>
+    <item>
+        <title>Servicios</title>
+        <link>#</link>
         <submenu>
-            <item name="Descripción" link="#descripcion" />
-            <item name="Importancia" link="#importancia" />
-            <item name="Elementos Personalizables" link="#personalizacion" />
-            <item name="Preguntas Frecuentes" link="#faq" />
+            <item>
+                <title>Descripción del servicio de estrategias personalizadas</title>
+                <link>#descripcion</link>
+            </item>
+            <item>
+                <title>Importancia del marketing digital para empresas modernas</title>
+                <link>#importancia</link>
+            </item>
+            <item>
+                <title>Qué elementos puedes personalizar</title>
+                <link>#personalizar</link>
+            </item>
+            <item>
+                <title>Preguntas frecuentes</title>
+                <link>#faq</link>
+            </item>
         </submenu>
     </item>
-    <item name="Formulario de Registro" link="#formulario">
-        <submenu>
-            <item name="Objetivos" link="#objetivos" />
-            <item name="Presupuesto" link="#presupuesto" />
-            <item name="Canales" link="#canales" />
-            <item name="Público Objetivo" link="#publico" />
-        </submenu>
-    </item>
-    <!-- Repetir para el resto de las secciones -->
 </menu>
